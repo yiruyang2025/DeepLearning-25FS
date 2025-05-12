@@ -1,4 +1,4 @@
-Hi there 👋 Welcome ✨!
+Hi there.
 
 - Why you should blog - https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045
 
@@ -10,5 +10,4 @@ Hi there 👋 Welcome ✨!
 
 
 
-By Yiru
 April 2025, Zurich, 🇨🇭
