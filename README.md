@@ -1,4 +1,4 @@
-Hi there.
+Hi there
 
 - Why you should blog - https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045
 
@@ -9,5 +9,3 @@ Hi there.
 - "CNNs from different viewpoints" - https://medium.com/@matthewkleinsmith/cnns-from-different-viewpoints-fab7f52d159c
 
 
-
-April 2025, Zurich, 🇨🇭
